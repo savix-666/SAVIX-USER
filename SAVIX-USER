@@ -16,11 +16,5 @@
         "key": "Dragon",
         "expirydate": "26-12-2026",
         "Allowoffline": true
-    },
-    {
-        "device_id": "59021da5ccc3cbec",
-        "key": "MAXO",
-        "expirydate": "29-12-10000",
-        "Allowoffline": true
     }
 ]

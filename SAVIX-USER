@@ -4,5 +4,11 @@
         "key": "f9c78e7e6cb7316b",
         "expirydate": "12-12-9999",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f9c78e7e6cb7316b",
+        "key": "Mahan",
+        "expirydate": "12-12-9999",
+        "Allowoffline": true
     }
 ]

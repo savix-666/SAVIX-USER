@@ -4,5 +4,17 @@
         "key": "Savixzayd",
         "expirydate": "27-19-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "Mahan",
+        "key": "f9c78e7e6cb7316b",
+        "expirydate": "12-12-9999",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "Mahan",
+        "key": "f9c78e7e6cb7316b",
+        "expirydate": "12-12-9999",
+        "Allowoffline": true
     }
 ]

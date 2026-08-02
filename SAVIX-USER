@@ -1,11 +1,5 @@
 [
     {
-        "device_id": "59021da5ccc3cbec",
-        "key": "Mahan",
-        "expirydate": "25-12-9999",
-        "Allowoffline": true
-    },
-    {
         "device_id": "5d1242e0275bc331",
         "key": "12",
         "expirydate": "27-12-2026",

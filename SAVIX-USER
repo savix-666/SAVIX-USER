@@ -28,5 +28,11 @@
         "key": "HOSIN",
         "expirydate": "30-05-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f9c78e7e6cb7316b",
+        "key": "MAXO",
+        "expirydate": "03-09-2026",
+        "Allowoffline": true
     }
 ]

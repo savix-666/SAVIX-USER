@@ -1,11 +1,5 @@
 [
     {
-        "device_id": "f0b844a3162a56c7",
-        "key": "Tayeb",
-        "expirydate": "27-12-9999",
-        "Allowoffline": true
-    },
-    {
         "device_id": "a029ea4e6f642188",
         "key": "Dragon",
         "expirydate": "26-12-2026",

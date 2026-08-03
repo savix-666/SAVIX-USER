@@ -22,5 +22,11 @@
         "key": "Dragon",
         "expirydate": "02-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "0be9db0e12798523",
+        "key": "BFS",
+        "expirydate": "01-11-2026",
+        "Allowoffline": true
     }
 ]

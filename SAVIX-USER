@@ -22,5 +22,11 @@
         "key": "Mahan",
         "expirydate": "02-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "637bfbe31746e41b",
+        "key": "Zobayr",
+        "expirydate": "9999-12-2026",
+        "Allowoffline": true
     }
 ]

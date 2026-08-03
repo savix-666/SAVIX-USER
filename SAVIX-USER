@@ -4,5 +4,11 @@
         "key": "MAXO",
         "expirydate": "03-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5d1242e0275bc331",
+        "key": "Savix",
+        "expirydate": "25-03-2028",
+        "Allowoffline": true
     }
 ]

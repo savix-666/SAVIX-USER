@@ -1,11 +1,5 @@
 [
     {
-        "device_id": "637bfbe31746e41b",
-        "key": "Zobayr",
-        "expirydate": "9999-12-2026",
-        "Allowoffline": true
-    },
-    {
         "device_id": "d470f08c042530dd",
         "key": "HOSIN",
         "expirydate": "30-05-2027",

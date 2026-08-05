@@ -34,5 +34,11 @@
         "key": "Mahan",
         "expirydate": "05-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5d1242e0275bc331",
+        "key": "۱۴",
+        "expirydate": "27-03-2028",
+        "Allowoffline": true
     }
 ]

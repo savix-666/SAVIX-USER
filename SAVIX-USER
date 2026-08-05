@@ -1,11 +1,5 @@
 [
     {
-        "device_id": "f9c78e7e6cb7316b",
-        "key": "MAXO",
-        "expirydate": "19-08-2029",
-        "Allowoffline": true
-    },
-    {
         "device_id": "5d1242e0275bc331",
         "key": "Savix",
         "expirydate": "25-03-2028",

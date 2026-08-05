@@ -22,5 +22,11 @@
         "key": "Zobayr",
         "expirydate": "27-03-2028",
         "Allowoffline": true
+    },
+    {
+        "device_id": "5d1242e0275bc331",
+        "key": "Savix",
+        "expirydate": "20-12-2053",
+        "Allowoffline": true
     }
 ]

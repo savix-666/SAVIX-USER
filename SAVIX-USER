@@ -1,11 +1,5 @@
 [
     {
-        "device_id": "5d1242e0275bc331",
-        "key": "Savix",
-        "expirydate": "25-03-2028",
-        "Allowoffline": true
-    },
-    {
         "device_id": "d470f08c042530dd",
         "key": "HOSIN",
         "expirydate": "02-09-2026",

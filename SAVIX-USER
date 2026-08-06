@@ -28,5 +28,11 @@
         "key": "Savix",
         "expirydate": "20-12-2053",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f9c78e7e6cb7316b",
+        "key": "Mahan",
+        "expirydate": "06-09-2026",
+        "Allowoffline": true
     }
 ]

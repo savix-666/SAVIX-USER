@@ -33,7 +33,8 @@
         "device_id": "f9c78e7e6cb7316b",
         "key": "Mahan",
         "expirydate": "06-09-2026",
-        "Allowoffline": true
+        "Allowoffline": true,
+        "disabled": true
     },
     {
         "device_id": "91338d96c0756175",

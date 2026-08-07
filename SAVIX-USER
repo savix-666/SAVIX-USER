@@ -34,7 +34,7 @@
         "key": "Mahan",
         "expirydate": "06-09-2026",
         "Allowoffline": true,
-        "disabled": true
+        "disabled": false
     },
     {
         "device_id": "91338d96c0756175",

@@ -32,15 +32,6 @@
         "device_model": "Xiaomi M2006C3LG"
     },
     {
-        "device_id": "f9c78e7e6cb7316b",
-        "key": "Mahan",
-        "expirydate": "21-01-2054",
-        "Allowoffline": true,
-        "disabled": false,
-        "last_ip": "188.210.147.222",
-        "device_model": "Xiaomi 2310FPCA4G"
-    },
-    {
         "device_id": "91338d96c0756175",
         "key": "Ahora",
         "expirydate": "22-12-2053",

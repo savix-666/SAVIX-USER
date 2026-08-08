@@ -35,7 +35,9 @@
         "device_id": "f0b844a3162a56c7",
         "key": "Tayeb",
         "expirydate": "22-12-2053",
-        "Allowoffline": true
+        "Allowoffline": true,
+        "last_ip": "104.247.189.137",
+        "device_model": "samsung SM-A065F"
     },
     {
         "device_id": "d61002fe1150ac81",

@@ -60,5 +60,14 @@
         "key": "Majani",
         "expirydate": "07-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "a029ea4e6f642188",
+        "key": "Dragon",
+        "expirydate": "09-08-2026",
+        "Allowoffline": true,
+        "disabled": false,
+        "last_ip": "",
+        "device_model": ""
     }
 ]

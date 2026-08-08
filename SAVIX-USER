@@ -63,5 +63,11 @@
         "key": "Admin1",
         "expirydate": "22-05-2300",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1e2d24a35ec1ae3a",
+        "key": "Majani",
+        "expirydate": "07-09-2026",
+        "Allowoffline": true
     }
 ]

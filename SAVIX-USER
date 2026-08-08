@@ -6,14 +6,6 @@
         "Allowoffline": true
     },
     {
-        "device_id": "a029ea4e6f642188",
-        "key": "Dragon",
-        "expirydate": "27-03-2028",
-        "Allowoffline": true,
-        "last_ip": "104.167.27.140",
-        "device_model": "samsung SM-A525F"
-    },
-    {
         "device_id": "0be9db0e12798523",
         "key": "BFS",
         "expirydate": "27-03-2028",
@@ -62,14 +54,5 @@
         "key": "Majani",
         "expirydate": "07-09-2026",
         "Allowoffline": true
-    },
-    {
-        "device_id": "a029ea4e6f642188",
-        "key": "Dragon",
-        "expirydate": "09-08-2026",
-        "Allowoffline": true,
-        "disabled": false,
-        "last_ip": "",
-        "device_model": ""
     }
 ]

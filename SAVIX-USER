@@ -56,5 +56,14 @@
         "key": "Majani",
         "expirydate": "07-09-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "f9c78e7e6cb7316b",
+        "key": "Mahan",
+        "expirydate": "24-12-2053",
+        "Allowoffline": true,
+        "disabled": false,
+        "last_ip": "",
+        "device_model": ""
     }
 ]

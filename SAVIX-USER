@@ -74,7 +74,7 @@
         "expirydate": "09-09-2026",
         "Allowoffline": true,
         "disabled": false,
-        "last_ip": "",
-        "device_model": ""
+        "last_ip": "148.153.140.224",
+        "device_model": "samsung SM-A165F"
     }
 ]

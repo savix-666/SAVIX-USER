@@ -67,5 +67,14 @@
         "disabled": false,
         "last_ip": "104.167.27.5",
         "device_model": "Xiaomi 2310FPCA4G"
+    },
+    {
+        "device_id": "b2f7bebcf262f60c",
+        "key": "26",
+        "expirydate": "09-09-2026",
+        "Allowoffline": true,
+        "disabled": false,
+        "last_ip": "",
+        "device_model": ""
     }
 ]

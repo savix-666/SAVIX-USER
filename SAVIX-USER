@@ -63,7 +63,7 @@
         "expirydate": "24-12-2053",
         "Allowoffline": true,
         "disabled": false,
-        "last_ip": "",
-        "device_model": ""
+        "last_ip": "104.167.27.127",
+        "device_model": "Xiaomi 2310FPCA4G"
     }
 ]

@@ -29,7 +29,9 @@
         "device_id": "91338d96c0756175",
         "key": "Ahora",
         "expirydate": "22-12-2053",
-        "Allowoffline": true
+        "Allowoffline": true,
+        "last_ip": "104.167.27.70",
+        "device_model": "samsung SM-A307GN"
     },
     {
         "device_id": "f0b844a3162a56c7",

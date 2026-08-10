@@ -18,18 +18,6 @@
         "Allowoffline": true
     },
     {
-        "device_id": "5d1242e0275bc331",
-        "key": "Savix",
-        "expirydate": "20-12-2053",
-        "Allowoffline": true,
-        "last_ip": "104.167.26.157",
-        "device_model": "Xiaomi M2006C3LG",
-        "country": "Germany",
-        "city": "Hamburg",
-        "isp": "BHS Solutions GmbH",
-        "is_vpn": "خیر"
-    },
-    {
         "device_id": "91338d96c0756175",
         "key": "Ahora",
         "expirydate": "22-12-2053",

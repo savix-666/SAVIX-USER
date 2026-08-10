@@ -9,7 +9,13 @@
         "device_id": "0be9db0e12798523",
         "key": "BFS",
         "expirydate": "27-03-2028",
-        "Allowoffline": true
+        "Allowoffline": true,
+        "last_ip": "31.171.101.19",
+        "device_model": "Xiaomi 2212ARNC4L",
+        "country": "Azerbaijan",
+        "city": "Baku",
+        "isp": "Delta Telecom Ltd",
+        "is_vpn": "بله (فیلترشکن / پروکسی)"
     },
     {
         "device_id": "637bfbe31746e41b",

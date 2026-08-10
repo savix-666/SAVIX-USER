@@ -72,5 +72,18 @@
         "disabled": false,
         "last_ip": "148.153.140.224",
         "device_model": "samsung SM-A165F"
+    },
+    {
+        "device_id": "5d1242e0275bc331",
+        "key": "Savix",
+        "expirydate": "26-07-2027",
+        "Allowoffline": true,
+        "disabled": false,
+        "last_ip": "",
+        "device_model": "",
+        "country": "",
+        "city": "",
+        "isp": "",
+        "is_vpn": ""
     }
 ]

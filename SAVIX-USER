@@ -22,8 +22,12 @@
         "key": "Savix",
         "expirydate": "20-12-2053",
         "Allowoffline": true,
-        "last_ip": "37.148.65.224",
-        "device_model": "Xiaomi M2006C3LG"
+        "last_ip": "104.167.26.157",
+        "device_model": "Xiaomi M2006C3LG",
+        "country": "Germany",
+        "city": "Hamburg",
+        "isp": "BHS Solutions GmbH",
+        "is_vpn": "خیر"
     },
     {
         "device_id": "91338d96c0756175",

@@ -85,12 +85,12 @@
         "expirydate": "26-07-2027",
         "Allowoffline": true,
         "disabled": false,
-        "last_ip": "31.171.101.74",
+        "last_ip": "37.202.131.19",
         "device_model": "Xiaomi M2006C3LG",
-        "country": "Azerbaijan",
-        "city": "Baku",
-        "isp": "Delta Telecom Ltd",
-        "is_vpn": "بله (فیلترشکن / پروکسی)"
+        "country": "Iran",
+        "city": "Zahedan",
+        "isp": "شاتل (Shatel)",
+        "is_vpn": "خیر"
     },
     {
         "device_id": "badb5a82682bc5d5",

@@ -99,5 +99,18 @@
         "city": "Tehran",
         "isp": "Mobile Communication Company of Iran",
         "is_vpn": "خیر"
+    },
+    {
+        "key": "Mahan",
+        "device_id": "f9c78e7e6cb7316b",
+        "expirydate": "30-08-2026",
+        "Allowoffline": true,
+        "disabled": false,
+        "last_ip": "",
+        "device_model": "",
+        "country": "",
+        "city": "",
+        "isp": "",
+        "is_vpn": ""
     }
 ]

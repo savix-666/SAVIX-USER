@@ -1,15 +1,17 @@
 [
     {
-        "device_id": "d470f08c042530dd",
         "key": "HOSIN",
-        "expirydate": "27-03-2028",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "0be9db0e12798523",
-        "key": "BFS",
+        "device_id": "d470f08c042530dd",
         "expirydate": "27-03-2028",
         "Allowoffline": true,
+        "disabled": false
+    },
+    {
+        "key": "BFS",
+        "device_id": "0be9db0e12798523",
+        "expirydate": "27-03-2028",
+        "Allowoffline": true,
+        "disabled": false,
         "last_ip": "31.171.101.121",
         "device_model": "Xiaomi 2212ARNC4L",
         "country": "Azerbaijan",
@@ -18,61 +20,54 @@
         "is_vpn": "بله (فیلترشکن / پروکسی)"
     },
     {
-        "device_id": "637bfbe31746e41b",
         "key": "Zobayr",
+        "device_id": "637bfbe31746e41b",
         "expirydate": "27-03-2028",
-        "Allowoffline": true
+        "Allowoffline": true,
+        "disabled": false
     },
     {
-        "device_id": "91338d96c0756175",
         "key": "Ahora",
+        "device_id": "91338d96c0756175",
         "expirydate": "22-12-2053",
         "Allowoffline": true,
+        "disabled": false,
         "last_ip": "2.147.182.56",
         "device_model": "samsung SM-A307GN"
     },
     {
-        "device_id": "f0b844a3162a56c7",
         "key": "Tayeb",
+        "device_id": "f0b844a3162a56c7",
         "expirydate": "22-12-2053",
         "Allowoffline": true,
+        "disabled": false,
         "last_ip": "152.233.6.129",
         "device_model": "samsung SM-A065F"
     },
     {
-        "device_id": "d61002fe1150ac81",
         "key": "Baloch",
+        "device_id": "d61002fe1150ac81",
         "expirydate": "03-07-4764",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d156f9d45f8dceb1",
-        "key": "Admin1",
-        "expirydate": "22-05-2300",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "1e2d24a35ec1ae3a",
-        "key": "Majani",
-        "expirydate": "07-09-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "f9c78e7e6cb7316b",
-        "key": "Mahan",
-        "expirydate": "24-12-2053",
         "Allowoffline": true,
-        "disabled": false,
-        "last_ip": "219.100.37.239",
-        "device_model": "Xiaomi 2310FPCA4G",
-        "country": "Japan",
-        "city": "Chiyoda City",
-        "isp": "SoftEther",
-        "is_vpn": "بله (فیلترشکن / پروکسی)"
+        "disabled": false
     },
     {
-        "device_id": "b2f7bebcf262f60c",
+        "key": "Admin1",
+        "device_id": "d156f9d45f8dceb1",
+        "expirydate": "22-05-2300",
+        "Allowoffline": true,
+        "disabled": false
+    },
+    {
+        "key": "Majani",
+        "device_id": "1e2d24a35ec1ae3a",
+        "expirydate": "07-09-2026",
+        "Allowoffline": true,
+        "disabled": false
+    },
+    {
         "key": "26",
+        "device_id": "b2f7bebcf262f60c",
         "expirydate": "09-09-2026",
         "Allowoffline": true,
         "disabled": false,
@@ -80,8 +75,8 @@
         "device_model": "samsung SM-A165F"
     },
     {
-        "device_id": "5d1242e0275bc331",
         "key": "Savix",
+        "device_id": "5d1242e0275bc331",
         "expirydate": "26-07-2027",
         "Allowoffline": true,
         "disabled": false,
@@ -93,8 +88,8 @@
         "is_vpn": "خیر"
     },
     {
-        "device_id": "badb5a82682bc5d5",
         "key": "badb5a82682bc5d5",
+        "device_id": "badb5a82682bc5d5",
         "expirydate": "10-10-2026",
         "Allowoffline": true,
         "disabled": false,

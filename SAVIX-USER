@@ -112,5 +112,18 @@
         "city": "Tehran",
         "isp": "مخابرات ایران (TCI / اینترنت خانگی)",
         "is_vpn": "خیر"
+    },
+    {
+        "device_id": "9cc797c2c91b5917",
+        "key": "MAXO",
+        "expirydate": "03-05-2027",
+        "Allowoffline": true,
+        "disabled": false,
+        "last_ip": "",
+        "device_model": "",
+        "country": "",
+        "city": "",
+        "isp": "",
+        "is_vpn": ""
     }
 ]

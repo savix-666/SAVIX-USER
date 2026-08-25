@@ -106,12 +106,12 @@
         "expirydate": "30-08-2026",
         "Allowoffline": true,
         "disabled": false,
-        "last_ip": "2.176.67.26",
+        "last_ip": "219.100.37.238",
         "device_model": "Xiaomi 2310FPCA4G",
-        "country": "Iran",
-        "city": "Tehran",
-        "isp": "مخابرات ایران (TCI / اینترنت خانگی)",
-        "is_vpn": "خیر"
+        "country": "Japan",
+        "city": "Chiyoda City",
+        "isp": "SoftEther",
+        "is_vpn": "بله (فیلترشکن / پروکسی)"
     },
     {
         "device_id": "9cc797c2c91b5917",

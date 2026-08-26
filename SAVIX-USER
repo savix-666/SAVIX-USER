@@ -12,12 +12,12 @@
         "expirydate": "27-03-2028",
         "Allowoffline": true,
         "disabled": false,
-        "last_ip": "31.171.101.121",
+        "last_ip": "5.113.52.146",
         "device_model": "Xiaomi 2212ARNC4L",
-        "country": "Azerbaijan",
-        "city": "Baku",
-        "isp": "Delta Telecom Ltd",
-        "is_vpn": "بله (فیلترشکن / پروکسی)"
+        "country": "Iran",
+        "city": "Tehran",
+        "isp": "Iran Cell Service and Communication Company",
+        "is_vpn": "خیر"
     },
     {
         "key": "Zobayr",

@@ -1,12 +1,5 @@
 [
     {
-        "key": "HOSIN",
-        "device_id": "d470f08c042530dd",
-        "expirydate": "27-03-2028",
-        "Allowoffline": true,
-        "disabled": false
-    },
-    {
         "key": "BFS",
         "device_id": "0be9db0e12798523",
         "expirydate": "27-03-2028",
